@@ -1,0 +1,14 @@
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\bin\Debug\net7.0\Labb 3 rikitg.exe
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\bin\Debug\net7.0\Labb 3 rikitg.deps.json
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\bin\Debug\net7.0\Labb 3 rikitg.runtimeconfig.json
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\bin\Debug\net7.0\Labb 3 rikitg.dll
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\bin\Debug\net7.0\Labb 3 rikitg.pdb
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.AssemblyInfoInputs.cache
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.AssemblyInfo.cs
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.csproj.CoreCompileInputs.cache
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.dll
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\refint\Labb 3 rikitg.dll
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.pdb
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\Labb 3 rikitg.genruntimeconfig.cache
+C:\Users\Min\source\repos\Labb 3 rikitg\Labb 3 rikitg\obj\Debug\net7.0\ref\Labb 3 rikitg.dll
